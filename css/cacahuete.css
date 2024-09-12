@@ -8,3 +8,10 @@
 .container {
     width: 50%;
 }
+
+canvas {
+    background: #f0f0f0;
+    display: block;
+    margin: 0 auto;
+    border: 1px solid black;
+}
